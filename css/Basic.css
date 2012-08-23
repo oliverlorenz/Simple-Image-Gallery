@@ -1,0 +1,24 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	color: #FFF;
+	font-size: 12px;
+	font-family: Arial, Verdana, Sans-Serif;
+	background-color: #000;
+}
+
+a
+{
+	border-style: none;
+	color: blue;
+}
+
+a:active
+{
+	
+}

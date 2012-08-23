@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Probeaufgabe</title>
+		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+		<script type="text/javascript" src="js/StandardImageGallery.js"></script>
+		<link rel="stylesheet" href="css/Basic.css" type="text/css">
+		<link rel="stylesheet" href="css/StandardImageGallery.css" type="text/css">
+	</head>
+	<body>
+		<script type="text/javascript">
+			google.load("jquery", "1.4");
+		</script>
+		<!-- Sehr rudimentäres Templatesystem - Diese Variable wird später ersetzt -->
+		
+	</body>
+</html>

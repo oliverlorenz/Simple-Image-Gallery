@@ -1,0 +1,103 @@
+div.gallery
+{
+	border: 1px solid #000;
+	display: block;
+	margin: 0 auto;
+	padding: 5px;
+	position: relative;
+	width: 450px;
+}
+
+div.gallery div.loadingbg
+{
+	background-image: url("../gfx/ajax-loader.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+	display: none;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+	
+}
+
+div.bigImage
+{
+	background-image: url("../gfx/ajax-loader.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	width: 800px;
+}
+
+div.bigImage span.title
+{
+	display: block;
+	height: 2em;
+	line-height: 2em;
+	text-align: center;
+}
+
+div.gallery a
+{
+	text-decoration: none;
+	color: #FFF;
+}
+
+div.gallery div.navigation
+{
+	clear: both;
+	padding-top: 15px;
+	text-align: center;
+	width: 100%;
+}
+
+div.gallery div.navigation .button
+{
+	margin: 0 1em 0 1em;
+}
+
+div.gallery div.navigation span.button
+{
+	color: #808080;
+}
+
+div.gallery ul.images
+{
+	clear: both;
+}
+
+div.gallery ul.images li
+{
+	display: block;
+	text-align: center;
+	float: left;
+}
+
+div.gallery ul.images li span.title
+{
+	/* IE7 */
+	display: block;
+}
+
+div.gallery ul.images li:hover
+{
+	background-color: #555;
+}
+
+div.gallery ul.images li a
+{
+	background-image: url("../gfx/ajax-loader.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+	display: block;
+	height: 150px;
+	width: 150px;
+}
+
+
+
+div.gallery a img
+{
+	border-style: none;
+	padding: 5px;
+}
