@@ -1,0 +1,1 @@
+The simple image gallery was a task of one of my employer. The goal was a image gallery with PHP and jQuery. The project is built object-oriented and can run with and without JavaScript. A thumbnail generation is included. The configuration is implemented with a XML file.
